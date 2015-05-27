@@ -1,0 +1,61 @@
+/* CSS here the below classes and ids to define the various paramenters of words*/
+h4{
+font-size:1.5em;
+text-align:center;
+text-decoration:underline;
+}
+#name{
+	text-align:center;
+	color:black;
+	font-size:2.5em;
+	}
+#CVI{
+	text-align:left;
+	color:blue;
+	font-size:1.6em;
+}
+#CVII{
+	text-align:left;
+	color:red;
+	font-size:1.6em;
+}
+#CVIII{
+	text-align:left;
+	color:green;
+	font-size:1.6em;
+}
+#aim{	
+	text-align:left;
+	color:brown;
+	font-size:1.8em;
+}	
+	
+#result{
+	background-color:white;
+	hieght:30px;
+	width:130px;
+	}
+
+div{
+	text-align:center;
+}
+td{
+	background-color:#888888;
+	color:#F5FFFA;
+	border:1px solid black;
+	padding:4px;
+	text-align:center;
+
+}
+td:hover{
+	background-color:#2F4F4F;
+	color:#FFFFFF;	
+}
+.operator{	
+	background-color:323533;
+	color:#F5FFFA;
+}
+.operator:hover{
+	background-color:#2F4F4F;
+	color:#FFFFFF;	
+}
