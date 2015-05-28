@@ -1,6 +1,7 @@
 //the main calci func to concatenate, delete or evaluate the string according to the input character typed
 	function valu(val){
 		var temp=document.getElementById("result").value;
+		
 		if(val=="cancel"){
 			document.getElementById("result").value=" ";
 			}
