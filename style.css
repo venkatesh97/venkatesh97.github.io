@@ -33,7 +33,7 @@ text-decoration:underline;
 #result{
 	background-color:white;
 	hieght:30px;
-	width:130px;
+	width:170px;
 	}
 
 div{
@@ -50,6 +50,9 @@ td{
 td:hover{
 	background-color:#2F4F4F;
 	color:#FFFFFF;	
+}
+#sci{
+	text-align:center;
 }
 .operator{	
 	background-color:323533;
